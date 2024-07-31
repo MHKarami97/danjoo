@@ -2,7 +2,7 @@
 layout: allposts
 title: تمام مطالب
 landing-title: 'مطالب'
-nav-menu: true
+nav-menu: false
 description: null
 image: null
 author: null
