@@ -1,14 +1,14 @@
 # site settings
 title: Danjoo
 subtitle: دانجو
-email: mhkarami97@gmail.com
+email: danjoo@gmail.com
 description: جوینده دانش
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: mhkarami97
 street_address: استان البرز
 city: شهر کرج
-state: TN
+state: 
 zip_code: 
 country: 
 phone: 09390000000
