@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: تدریس خصوصی
 description: با ما پیشتاز باشید
 image: assets/images/teach.jpg
