@@ -6,11 +6,11 @@ description: جوینده دانش
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: mhkarami97
-street_address: خیابان
-city: کرج
+street_address: استان البرز
+city: شهر کرج
 state: TN
-zip_code: 55555
-country: ایران
+zip_code: 
+country: 
 phone: 09390000000
 
 # homepage tiles
@@ -26,7 +26,7 @@ socials:
   GitLab:
   Instagram: https://instagram.com
   LinkedIn: https://www.linkedin.com/in/
-  Twitter: https://twitter.com/
+  Twitter: https://twitter.com
   Facebook:
   Slack:
 

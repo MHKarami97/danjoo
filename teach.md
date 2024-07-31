@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teach
+title: تدریس خصوصی
 description: با ما پیشتاز باشید
 image: assets/images/pic01.jpg
 nav-menu: true

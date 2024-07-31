@@ -1,7 +1,7 @@
 ---
 layout: post
-title: quiz
-description: آزمون دوره ای
+title: آزمون
+description: آزمون دوره‌ای با تحلیل اختصاصی
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
